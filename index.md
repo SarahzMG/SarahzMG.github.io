@@ -1,4 +1,4 @@
-#Sarah Montiel-Guzman's Portfolio
+# Sarah Montiel-Guzman's Portfolio
 
 I am a computer science student at California State University of Fullerton and
 I am expected to graduate in 2028
