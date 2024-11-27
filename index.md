@@ -2,6 +2,7 @@
 
 I am a computer science student at California State University of Fullerton and
 I am expected to graduate in 2028
+
 My github profile link is <a href="https://github.com/SarahzMG">here</a>
 
 ## Favorite CPSC 120L Labs
